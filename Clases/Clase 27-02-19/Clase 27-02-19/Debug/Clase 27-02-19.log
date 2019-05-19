@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\beta3\documents\clasesinformatica\clase 27-02-19\clase 27-02-19\mat.h(8): error C2084: la función 'int apple::matematicas::sumar(int,int)' ya tiene un cuerpo
+  c:\users\beta3\documents\clasesinformatica\clase 27-02-19\clase 27-02-19\mat.h(8): note: vea la definición anterior de 'sumar'
+c:\users\beta3\documents\clasesinformatica\clase 27-02-19\clase 27-02-19\source.cpp(18): error C2065: 'sumar': identificador no declarado
+  mat.cpp
+  Generando código...

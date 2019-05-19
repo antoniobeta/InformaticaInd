@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\beta3\documents\clasesinformatica\clase ej2_listaenlazada\ej2_listaenlazada\source.cpp(29): error C2146: error de sintaxis: falta ';' delante del identificador 'push_front'
+c:\users\beta3\documents\clasesinformatica\clase ej2_listaenlazada\ej2_listaenlazada\source.cpp(29): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\beta3\documents\clasesinformatica\clase ej2_listaenlazada\ej2_listaenlazada\source.cpp(34): error C2086: 'nodo *t': nueva definición
+  c:\users\beta3\documents\clasesinformatica\clase ej2_listaenlazada\ej2_listaenlazada\source.cpp(29): note: vea la declaración de 't'
+c:\users\beta3\documents\clasesinformatica\clase ej2_listaenlazada\ej2_listaenlazada\source.cpp(34): error C2146: error de sintaxis: falta ';' delante del identificador 'push_front'
+c:\users\beta3\documents\clasesinformatica\clase ej2_listaenlazada\ej2_listaenlazada\source.cpp(35): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+c:\users\beta3\documents\clasesinformatica\clase ej2_listaenlazada\ej2_listaenlazada\source.cpp(44): warning C4508: 'push_front': la función debe devolver un valor; se supone que el tipo de valor devuelto es 'void'

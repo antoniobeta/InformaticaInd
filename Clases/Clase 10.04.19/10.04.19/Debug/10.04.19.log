@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\beta3\documents\clasesinformatica\10.04.19\10.04.19\source.cpp(44): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  10.04.19.vcxproj -> C:\Users\beta3\Documents\ClasesInformatica\10.04.19\Debug\10.04.19.exe
